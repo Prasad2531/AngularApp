@@ -1,0 +1,17 @@
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+.bg-dark{
+  background-color: black !important;
+}
+.navbar-dark .nav-link,
+.navbar-dark.nav-link:focus, .navbar-dark.nav-link:hover,.navbar-dark.nav-link:active{
+  color: whitesmoke;
+}
+
+.navbar-dark.navbar-brand h3{
+  color: whitesmoke;
+}
+.color-333{
+  color: #333;
+}

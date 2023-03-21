@@ -1,0 +1,19 @@
+
+.check-out {
+  height:100vh;
+  width: 100%;
+  background-image: url('https://images.indianexpress.com/2018/04/order-food-online.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+.text h3{
+  text-align: center;
+  text-decoration: none;
+  font-size: 3rem;
+  font-weight: bold;
+  color: royalblue;
+  padding-top: 3rem;
+  font-style: italic;
+}
